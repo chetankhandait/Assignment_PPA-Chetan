@@ -63,7 +63,7 @@ const Statistics = () => {
            2,245,341
            </h3>
            <h5>
-            Member
+            Member 
            </h5>
         </div>
     </div>
